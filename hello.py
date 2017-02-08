@@ -1,3 +1,2 @@
-print "test 3rd branch dev2"
-
+print "test for different files to merge"
 
